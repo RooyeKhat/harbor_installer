@@ -2,7 +2,7 @@
 #set -ex
 # vi: et st=2 sts=2 ts=2 sw=2 cindent bg=dark
 
-#Harbor on Ubuntu 22.04
+#Harbor on Debian 10 11 12
 
 # Unless ENV VAR 'IPorFQDN' is already set in CLI,
 # prompt for the user to ask if the install should use the IP Address or Fully Qualified Domain Name of the Harbor Server
